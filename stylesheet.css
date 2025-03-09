@@ -1,0 +1,4 @@
+#page {
+padding-left: 270px;
+object-fit: cover; /* Ensures the image fills the space without distortion */
+}
